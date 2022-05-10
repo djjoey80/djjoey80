@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @djjoey80
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Joey... 
+- 👀 I am a Software Developer
+- 🌱 I’m currently learning VueJS
+
 
 <!---
 djjoey80/djjoey80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
